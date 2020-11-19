@@ -1,16 +1,14 @@
-### Hi there 👋
+digital artist,
+<a href="https://github.com/TimPietrusky">open source hacker</a>,
+co-founder of <a href="https://livejs.network">LiveJS</a>,
+1/2 of <a href="https://schickmalzwo.de">schickmalzwo</a>,
+<a href="https://visualandlightworkshop.com">mentor</a>,
+<a href="https://github.com/NERDDISCO">visual spectacular</a>,
+<a href="https://github.com/NERDDISCO/luminave">lightweaver</a>
+and loop-drop-rookie
 
-<!--
-**TimPietrusky/TimPietrusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[nerddis.co](https://nerddis.co)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My current profile picture](tim_avatar_real.jpg)
