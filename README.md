@@ -1,4 +1,6 @@
-Tim Pietrusky aka NERDDISCO is a Developer, Open Source Advocate, and Creative Technologist with a wide range of skills. After receiving his diploma in Computer Science, he started his career as a backend developer. As a co-founder of an e-commerce company he worked as the CTO, before [Blibla](https://github.com/blib-la) was founded. He really enjoys working with different kinds of tech stacks (from frontend over to backend to infrastructure) and is active in the open source community. Tim also dedicates time mentoring developers and speaking at public events, helping others grow and become an expert in the tech field. When he's not working, he loves spending time in nature with his 2 daughters, creating art, performing as a VJ and playing the e-drums.
+AI DevRel Engineer at RunPod = Developer + Creative Technologist + Open-Source Advocate + Technical Writer + Community Builder + Mentor + Public Speaker + Organizer. 
+
+Passionate about making AI accessible and helping developers bring their ideas to life. Former CTO and co-founder with 15 years of experience in full-stack development and DevOps. Always exploring the intersection of technology, creativity and human-centered design. Off-screen, you'll find him running in the forest, spending time with his 2 daughters, creating generative art, VJing at dnb events or jamming on his e-drum kit.
 
 <h2 align="center">🎆 <a href="https://nerddis.co">nerddis.co</a> 🎆</h2>
 
