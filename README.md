@@ -1,4 +1,4 @@
-Tim Pietrusky aka NERDDISCO = DevRel Engineer at [RunPod](https://runpod.io) = Developer + Creative Technologist + Open-Source Advocate + Technical Writer + Community Builder + Mentor + Public Speaker + Organizer + Digital Artist. 
+Tim Pietrusky aka NERDDISCO = dx engineer at [RunPod](https://runpod.io) = Developer + Creative Technologist + Open-Source Advocate + Technical Writer + Community Builder + Mentor + Public Speaker + Organizer + Digital Artist. 
 
 Passionate about making AI accessible and helping developers bring their ideas to life. Former CTO and co-founder with 15 years of experience in full-stack development and DevOps. Always exploring the intersection of technology, creativity and human-centered design. 
 
