@@ -1,8 +1,6 @@
-Tim Pietrusky aka NERDDISCO = dx engineer at [Runpod](https://runpod.io) = Developer + Creative Technologist + Open-Source Advocate + Technical Writer + Community Builder + Mentor + Public Speaker + Organizer + Digital Artist. 
+Tim Pietrusky aka NERDDISCO = cto @ [Kale](https://kale.computer)
 
-Passionate about making AI accessible and helping developers bring their ideas to life. Former CTO and co-founder with 15 years of experience in full-stack development and DevOps. Always exploring the intersection of technology, creativity and human-centered design. 
-
-Off-screen, you'll find him running in the forest, spending time with his 2 daughters, creating generative art, VJing at dnb events or jamming on his e-drum kit.
+Off-screen, you'll find him exploring the world with his two daughters, running in the forest with his dog, creating generative art or VJing with his dnb band modulør
 
 <h2 align="center">🎆 <a href="https://nerddis.co">nerddis.co</a> 🎆</h2>
 
