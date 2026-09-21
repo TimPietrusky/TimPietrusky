@@ -1,6 +1,9 @@
-Tim Pietrusky aka NERDDISCO = cto @ [Kale](https://kale.computer)
-
-Off-screen, you'll find him exploring the world with his two daughters, running in the forest with his dog, creating generative art or VJing with his dnb band modulør
+Tim Pietrusky aka NERDDISCO
+- cto @ [Kale](https://kale.computer)
+- world explorer with his two daughters
+- runner in the forest with his dog
+- generative artist
+- vj @ dnb band modulør
 
 <h2 align="center">🎆 <a href="https://nerddis.co">nerddis.co</a> 🎆</h2>
 
