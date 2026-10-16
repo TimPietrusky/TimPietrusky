@@ -1,4 +1,7 @@
 Tim Pietrusky aka NERDDISCO
+
+<img src="./timpietrusky_2026_4024x4024.jpg" alt="Tim Pietrusky, 2026 headshot" width="200" />
+
 - cto @ [Kale](https://kale.computer)
 - world explorer with his two daughters
 - runner in the forest with his dog
